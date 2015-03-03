@@ -4,9 +4,9 @@
  * <p>
  * Copyright: Copyright (c) 2014年8月9日
  * <p>
- * Company: 北京宽连十方数字技术有限公司
+ * Company: 
  * <p>
- * Author: fuzl@c-platform
+ * Author: 
  * <p>
  * Version: 1.0
  * <p>
